@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://octolarry.azurewebsites.net/
+title: Larry's Octopress Blog
+subtitle: Hacking around
+author: Larry Franks
 simple_search: http://google.com/search
 description:
 
